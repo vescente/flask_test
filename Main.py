@@ -2,8 +2,6 @@ import requests
 import json
 from flask import Flask
 
-# 123
-
 # text = requests.get('https://www.cbr-xml-daily.ru/daily_json.js').text
 
 # curr = json.loads(text)
