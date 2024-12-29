@@ -22,5 +22,7 @@ def hello_world():
         result += str(currency) + ': ' + str(curr['Valute'][currency]['Name']) + ' - ' + str(curr['Valute'][currency]['Value']) + '<br>'
     return result
 
+print("The End")
+
 if __name__ == '__main__':
     app.run()
